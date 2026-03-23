@@ -35,7 +35,7 @@
         "lemon juice",
         "sugar"
       ],
-      "image": "images/strawberry.svg"
+      "image": "images/ice-cream-xtra1.svg"
     },
     {
       "name": "Vanilla Dream",
@@ -46,7 +46,7 @@
         "cream",
         "egg yolks"
       ],
-      "image": "images/vanilla.svg"
+      "image": "images/ice-cream-xtra2.svg"
     }
   ]
 }
